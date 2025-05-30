@@ -1,0 +1,168 @@
+body{
+background-color: #f2d6cf;
+margin: 10;
+padding: 10;
+}
+.q{
+    width: 700px;
+    height: 700px;
+    margin: 10px;
+}
+.w{
+    font-family: Georgia;
+    font-size: 70px;
+    color: #ae756b;
+    
+}
+.e{
+      font-family: Georgia;
+    font-size: 30px;
+    color: #c08a80;
+}
+.r{
+    width: 100%;
+    height: 2px;
+background-color: #c08a80;
+}
+.t{width: 90px;
+    height: 90px;
+
+}
+.y{
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    width: 250px;
+    left: 35%;
+    border: 10px solid юrgb(255, 255, 255);
+border-radius: 5%;
+height: 460px;
+}
+textarea{
+  width: 170px;  
+  height: 150px;
+}
+.u{
+       position: absolute;
+    background-color: rgb(255, 255, 255);
+    width: 240px;
+    right: 35%;
+    border: 10px solid rgb(255, 255, 255);
+border-radius: 5%; 
+height: 440px;
+}
+
+
+.i{
+    font-size: 30px;
+    background-color: #f5cbc1;
+    color: #ffffff;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+}
+.o{
+    width: 350px;
+    height: 500px;
+    margin-left: 10px;
+   margin-right: 10px;
+}
+.a{
+
+color:  #c08a80;
+
+}
+
+.p{
+width: 40px;
+height: 40px;
+
+}
+textarea{
+    resize: none;
+    width: 210px;
+    height: 210px;
+    
+}
+.s{
+font-size: 19px;
+color: #8b5e56;
+}
+
+.menu{
+list-style: none;
+margin: 0;
+padding-left: 0;
+}
+li{
+display:inline;
+}
+.d{
+text-decoration: none;
+font-family: Consolas;
+color:  #ae756b;
+padding: 10px 20px;
+font-size: 30px;
+ font-family: Georgia;
+}
+.f{
+    color:  #ae756b;
+    font-family: Georgia;
+}
+input{
+   color: #8b5e56;  
+      font-family: Georgia;
+      font-size: 17px;
+      
+}
+.g{
+    width: 300px;
+    height: 380px;
+    margin-bottom: -5px;
+}
+.h{
+    color: #8b5e56;  
+      font-family: Georgia;
+      font-size: 17px;
+     display: inline-block;
+    border:  solid #8b5e56;
+   margin: 10px 10px 20px 10px;
+}
+.J{
+   display: inline-block;
+      border:  solid #8b5e56;
+        margin: 10px 10px 20px 10px;
+}
+.K{
+    color: #8b5e56;
+}
+.z{
+      width: 5500px;
+    height: 500px;
+    left: 1000px;
+}
+
+
+.x{
+      font-family: Georgia;
+    font-size: 25px;
+    color: #c08a80;
+    
+}
+
+.c{
+width: 300px;
+    height: 300px;
+    border: 5px solid #8b5e56;
+border-radius: 50%;
+}
+
+.center_menu{
+    text-align: center;
+    width: 100%;
+}
+
+
+
+
+
